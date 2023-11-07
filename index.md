@@ -178,6 +178,10 @@ Hell no.
 
 Sorry, that's not the intent. I am a complete hypocrite and have no right to lecture anyone. I'm just sharing something I've seen, because I believe it is helpful.
 
+### What is this crazy background image?
+
+I made it with DALL-E 3. [Here it is](img/buddha.png).
+
 ---
 
 ## Other notes
