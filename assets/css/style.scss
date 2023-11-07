@@ -1,7 +1,12 @@
 ---
 ---
 
-// @import "{{ site.theme }}";
+@import "{{ site.theme }}";
 
-header h1:before { content: "blarg "; font-size: 24px; };
+header h1 {
+  margin-left: 0;
+}
 
+header h1::before {
+  content: unset;
+}

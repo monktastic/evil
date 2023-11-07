@@ -3,8 +3,6 @@ layout: default
 title: Contempt is Evil
 ---
 
-## Contempt is Evil
-
 Evil's greatest trick is to convince you that it doesn't exist within your own mind; or that if it does, that it exists to fight the evil "out there." This illusion is responsible for the horror you see around you today.
 
 Imagine you witness an atrocity. If your mind were free of evil, you would feel absolutely no malice. You would more easily perceive the (inner and outer) conditions that led to the person being able to do this, which would enable a more effective response; one that would not amplify hostility in the world. This is called compassion—even if it requires violence[0]. It _reduces_ evil.
