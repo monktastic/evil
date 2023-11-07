@@ -3,29 +3,29 @@ layout: default
 title: Contempt is Evil
 ---
 
-Evil's greatest trick is to convince you that it doesn't exist within your own mind; or that if it does, that it exists to fight the evil "out there." This illusion is responsible for the horror you see around you today.
+Evil's greatest trick is to convince you that it doesn't exist within your own mind; or if it does, that it exists to fight the evil "out there." This lie is responsible for the horror you see around you today.
 
-Imagine you witness an atrocity. If your mind were free of evil, you would feel absolutely no malice. You would more easily perceive the (inner and outer) conditions that led to the person being able to do this, which would enable a more effective response; one that would not amplify hostility in the world. This is called compassion—even if it requires violence[0]. It _reduces_ evil.
+---
 
-Evil alters your very perception, so that you literally see "bad person" and wish to cause harm. It might be as "innocent" as mockery or shaming[1], but however "well-intentioned," such behavior is subconsciously designed to create *more* enmity and suffering; to increase evil in the world. This fact will be cleverly hidden from you. You will come away feeling righteous; like you "fought evil."
+Imagine you witness an atrocity. If your mind were free of evil, you would feel absolutely no malice. You would more easily perceive the (inner and outer) conditions that led to the person being able to do this, which would enable a more effective response; one that would not amplify hostility in the world. This is called compassion—_even if it requires violence_[^dalai-lama-gun]. It reduces evil.
+
+Evil alters your very perception, so that you literally see "bad person" and wish to cause harm. It might be as "innocent" as mockery or shaming[^mockery], but however "well-intentioned," such behavior is subconsciously designed to create *more* enmity and suffering; to increase evil in the world. This fact will be cleverly hidden from you. You will come away feeling righteous; like you "fought evil."
 
 This self-deception is extremely difficult to detect in ourselves. Yet without uncovering it, the true reason for other people's misbehavior stays hidden from us, and we cannot help but exacerbate it. Evil is *insanely* clever: it knows exactly how to manipulate our minds so that we eagerly spread it without ever suspecting it.
 
-If you still harbor the tendency for contempt (and I certainly do), then you are surely leaking evil into the world somewhere, somehow, without realizing it. The best thing you can do for the world is heal the part of you that's enabling this. Meditation, psychedelics, trauma work, shadow work, whatever. Please don't let it fester.
+If you still harbor the tendency for contempt (and I certainly do), then you are surely leaking evil into the world somewhere, somehow, and hiding it from yourself. The best thing you can do for the world is heal the part of you that's enabling this. Meditation, psychedelics, trauma work, shadow work, whatever. Please don't let it fester.
 
 You don't have to take my word for it. Part of you knows this perfectly well. You only need to discover what's blocking that knowledge from being fully conscious.
 
 ---
 
-[0] https://www.snopes.com/fact-check/dalai-gun/
 
-[1] There is a subtlety here: just like with violence, mocking or shaming *can* sometimes be the best response. But they work (and feel) entirely differently when not motivated by evil. I think of these as advanced techniques, because it's so easy to fool oneself.
 
 ## FAQ / glossary / notes
 
-### What is "insanely clever" about this?
+### Why do you call it "insanely clever"?
 
-Your actual enemy is not other people, but the "evil" in their minds—yet it gets us to be nasty to each other and thereby strengthen it, while feeling flawlessly convinced that we're doing good.
+Your actual enemy is not other people, but the "evil" in their minds—yet it gets us to be nasty to each other and thereby strengthen it, while feeling flawlessly convinced that we're fighting it.
 
 From a certain perspective, evil behaves like an intelligent distributed organism, with shadowy tentacles embedded in each of our minds. It is the original "evil conspiracy," to which all the rest ultimately owe their existence—and we are its unwitting minions. As crazy as this sounds, it can be perceived directly. In fact, as best I can tell, everyone who introspects carefully enough discovers it sooner or later.
 
@@ -47,7 +47,7 @@ But part of us secretly _wants_ this outcome...
 
 Contempt (for a person) is the feeling that you're fundamentally better than someone. Not just that you hold better views, or act better, but are *intrinsically* better. For example, you see "bad people" as fundamentally morally defective—unlike you. It's not necessarily a conscious belief, but a feeling.
 
-There is a profound sense in which you are fundamentally the _same_ as everyone else [see "inner light"]. This isn't realized fully until enlightenment, but everyone can sense it at some level at all times. That's why certain literature [3] speaks to us so powerfully. Contempt is a way to hide this fact from yourself, and is thus self-deceptive.
+There is a profound sense in which you are fundamentally the _same_ as everyone else [see "inner light"]. This isn't realized fully until enlightenment, but everyone can sense it at some level at all times. That's why certain literature [^literature] speaks to us so powerfully. Contempt is a way to hide this fact from yourself, and is thus self-deceptive.
 
 You may not be able to detect it in yourself, but others can—even if only subconsciously. They know the game you're playing, so they can't help but see _you_ as a "bad person" and feel compelled to fight your evil in return. You act dismayed by this recalcitrance, but you were secretly _intending_ to provoke it, because it proves your superiority and licenses righteous escalation.
 
@@ -73,7 +73,7 @@ In this state I _need_ evil to exist, so that I have something to fight, to prov
 
 Ironically, then, it is our memory of our original goodness that is the root cause of our misbehavior. Only by coming back into direct contact with it can we can stop contributing to this horrific cycle.
 
-### Evil people?
+### Are there really evil people?
 
 Some beings have become so separated from their inner light that there's effectively no memory of it left, and thus no discernible desire to be "good" in any meaningful sense. (Note that by this definition, even Hitler may not qualify: he believed he was doing good for humanity; loved his dog; etc. True _malevolence_ is exceedingly rare, thankfully.) It seems fair to apply the label "evil" to such people, but there are two important caveats.
 
@@ -127,9 +127,12 @@ Reality is actually one seamless interdependent whole. When we misperceive this,
 
 Perhaps, then, we could say that evil exists as a real misperception. What began as an innocent mistake spiraled out of control, and has taken on a seeming life of its own. It can thus be very useful to perceive evil as a distinct entity—as long as we remember that it's not separate from our own minds.
 
-When did this "innocent mistake" begin? After all, evil clearly existed before our birth. What makes this so hard to communicate is that we're not describing not a process that began in time and space—those are only constructs that our mind uses to make sense of reality once it has been (apparently) divided. This renders the "who started it" question moot—as it must, or else we continue the cycle.
+When did this "innocent mistake" begin? After all, evil clearly existed before our birth. What makes this so hard to communicate is that we're not describing not a process that began in time and space—those are only constructs that our mind uses to make sense of reality once it has been (apparently) divided. This renders the "who started it" question moot.
 
-It may not be useful to get too into metaphysics here, but it can help to recognize that all evil stems from the unwillingness or inability to recognize the humanity in other people; to see yourself in them. But it's actually broader than just people: destroying nature can be evil. It's a failure to recognize that what happens to the world ultimately happens to us, because in a profound and surprising sense, we _are_ the world. Harming it *will* come back to bite us. Again, some literature is good at reminding us[3].
+It may not be useful to get too into metaphysics here, but it can be helpful to recognize that all evil stems from the unwillingness or inability to recognize the humanity in other people; to _see_ yourself in them. It's actually broader than just people: destroying nature can be evil. It's a failure to recognize that what happens to the world ultimately happens to us, because in a profound and surprising sense, we _are_ the world. Harming it *always* comes back to bite us. 
+Ultimately, all self-deception boils down to feigned ignorance of this fact.
+
+Again, some literature is good at reminding us[^literature].
 
 ### What does the evil want?
 
@@ -146,10 +149,6 @@ This deserves its own piece. For now, I'll just share this quote:
 > *Reminds me of something (I think) Duncan [Trussell] said on some recent podcast, quoting somebody else: it isn't the victim of violence you have to pray for so much. It's the perpetrator. They are the one who is more trapped in delusion, more estranged from love, etc.*
 
 Coming into contact with your "inner light" provides the profound psychological safety required to uncover and hold the full depth of your complicity in the world. You can then offer this same gift to others—though if it still feels like there is a "you" and "others," there is work left to be done.
-
-Another experience goes like this:
-
-> In the beginning, you—The Primordial Light of Potentiality; God—were all alone. You wondered what would happen if you decided to split off from yourself. The instant you (seemingly) did this, you regretted it, for you no longer knew that you were Good. Fearing the wrath of God, you sought a place to hide. So you projected an entire universe, replete with other beings onto whom you could project your guilt. You valiantly fought them, but part of you knew what you were secretly doing, leading to more guilt, and thus more projection, etc., in a horrifying feedback loop that continues to this day.
 
 ### Say more about this "conspiracy"
 
@@ -179,12 +178,16 @@ Hell no.
 
 Sorry, that's not the intent. I am a complete hypocrite and have no right to lecture anyone. I'm just sharing something I've seen, because I believe it is helpful.
 
+---
+
 ## Other notes
 
-- Even before it turns into full-blown contempt, there can be a subtle tendency to assume bad faith in the other person. You feel it as a kind of hardening of your heart. This rapidly results in a downward spiral, as you subtly provoke them into confirming your suspicion. This is _incredibly_ common. Obviously people _do_ sometimes act in bad faith, and we must protect ourselves, but it's crucial to be on the lookout for this budding contempt.
+- Even before it turns into full-blown contempt, there can be a subtle tendency to assume bad faith in a person. You feel it as a kind of hardening of your heart. This rapidly results in a downward spiral, as you subtly provoke them into confirming your suspicion. We do this _all the time_. 
+
+    Obviously people _do_ sometimes act in bad faith, and we must protect ourselves, but it's crucial to stay alert for any budding contempt.
 
 
-- Revenge fantasy films (like The Equalizer) and those "Watch Karens Get Owned" YouTube videos exist only to stoke our darkness. They are a manifestation of our evil—again, masquerading as our goodness. Notice how they feel _so goddamn righteous._ That's it: that's the feeling.
+- Revenge fantasy films (like The Equalizer) and those "[Karens Getting Owned](https://www.youtube.com/watch?v=88CqPl_HqS4)" YouTube videos exist only to stoke our darkness. They are a manifestation of our evil—again, masquerading as our goodness. Notice how they feel _so goddamn righteous._ That's it: that's the feeling.
 
 
 - "Outrage" can mean (healthy) anger directed at correcting an injustice, but it quickly gets corrupted into self-righteous indignation. Similarly, "judgement" can refer to wise discernment, but it quickly devolves into disdain. Just like "compassion" doesn't really mean "being nice," these words get redefined by our evil so that we make a mess of what is actually quite simple.
@@ -203,7 +206,7 @@ Sorry, that's not the intent. I am a complete hypocrite and have no right to lec
 
 ---
 
-## Other quotes
+## Misc
 
 > But some unresolved emotional issues remained. For a start, I still felt that I had been victimized by this person. I felt hurt. To resolve this, I needed to face all the things this person’s deliberate and ruthless dishonesty had stirred up within my dark side. I succeeded in doing so mainly by looking at examples of situations where I had deliberately lied. Why had I lied? How had I justified it to myself? I kept reflecting on such situations where I had been a liar. Eventually I reached the point where I could clearly see that this person had essentially been doing nothing different from me.
 >
@@ -216,7 +219,11 @@ Sorry, that's not the intent. I am a complete hypocrite and have no right to lec
 ---
 
 
-[3]
-- https://www.youtube.com/watch?v=h6fcK_fRYaI The Egg (a short story by Andy Weir and animated by Kurzgesagt.)
-- https://plumvillage.org/articles/please-call-me-by-my-true-names-song-poem/
+[^dalai-lama-gun]: https://www.snopes.com/fact-check/dalai-gun/
+
+[^mockery]: There is a subtlety here: just like with violence, mocking or shaming *can* sometimes be the best response. But they work (and feel) entirely differently when not motivated by evil. I think of these as advanced techniques, because it's so easy to fool oneself.
+
+[^literature]:
+    - [The Egg](https://www.youtube.com/watch?v=h6fcK_fRYaI) (a short story by Andy Weir and animated by Kurzgesagt.)
+    - [Please Call Me By My True Names](https://www.youtube.com/watch?v=h6fcK_fRYaI) by Thich Nhat Hanh.
 

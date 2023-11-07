@@ -14,7 +14,7 @@ author :
   github : monktastic
   twitter : nil
   feedburner : nil
-description:
+description: "Thoughts on the nature of evil"
 
 # NOTE: If replacing this next line with your own URL, you likely want "https://" not "http://"
 production_url : http://monktastic.github.io/evil
