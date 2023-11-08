@@ -3,13 +3,13 @@ layout: default
 title: Contempt is Evil
 ---
 
-There really _is_ a sort of "evil conspiracy" behind the world's ills. What makes it so hard to nail is that part of it lives within our own minds—and we are secretly giving it safe harbor.
+There really _is_ a sort of "evil conspiracy" responsible for the world's ills. What makes it so hard to nail is that part of it lives within our own minds—and we are secretly giving it safe harbor.
 
 ---
 
 Imagine you witness someone misbehaving—anything from cutting in line to a full-blown atrocity.
 
-If your mind were free of evil, you would literally see yourself in them—indeed, in everyone and everything[^literature]—and feel absolutely no contempt or malice. You would more easily perceive the inner and outer conditions that led to it, which would enable a healthy response; one that would not amplify hostility in the world. This is called compassion—_even if it requires violence_[^dalai-lama-gun]. This _reduces_ evil.
+If your mind were free of evil, you would literally see yourself in them—indeed, in everyone and everything[^literature]—and be incapable of feeling contempt or malice. You would more easily perceive the inner and outer conditions that led to their behavior, which would enable a healthy response; one that would not amplify hostility in the world. This is called compassion—_even if it requires violence_[^dalai-lama-gun]. It _reduces_ evil.
 
 Evil, on the other hand, alters your very perception, so that you literally see "bad person" and wish to cause harm. It might be as innocent as mockery or shaming[^mockery]—but however "well-intentioned," such behavior is subconsciously designed to create *more* enmity and suffering; to increase evil in the world. But this fact will be cleverly hidden from you. You will come away feeling righteous; like you "fought evil."
 
@@ -29,9 +29,9 @@ Your actual enemy is not other people, but the evil in all of our minds—yet yo
 
 In this way, it behaves like an intelligent distributed organism[^distributed-organism], with shadowy tentacles embedded in each of our minds. It is leveraging humanity's intelligence to produce horrifying outcomes that nobody claims to want, yet which are the inevitable result of our collective self-deception[^conspiracy]. Nobody can see it, but everyone can sense it.
 
-In the same way that the "evil elites" are (supposedly or actually) manipulating us to take attention off of them, this super-organism is manipulating _all_ of us to take attention off of _it._ It is the original "evil conspiracy," to which all the rest ultimately filter up—and we are its unwitting appendages.
+In the same way that the "evil elites" are (supposedly or actually) manipulating us to take attention off of them, this super-organism is manipulating _all_ of us to take attention off of _it._ It is the original "evil conspiracy," to which all the rest ultimately filter up—and we are its unwitting minions.
 
-As crazy as this sounds, it can be perceived directly. In fact, as best I can tell, everyone who introspects carefully enough discovers it sooner or later (though they may use different language). But the _really_ crazy part is that it's not exactly "unwitting"...
+As crazy as this sounds, it can be perceived directly. In fact, as best I can tell, everyone who introspects carefully enough discovers it sooner or later (though they may use different language). But the _really_ crazy part is that it's not really "unwitting"...
 
 ### Self-deception (aka willful ignorance)
 
@@ -47,15 +47,15 @@ But part of us secretly _wants_ this outcome...
 
 > "When wickedness comes, so does contempt..." —Proverbs 18:3
 
-Contempt is the feeling that you're fundamentally better than someone[^contempt]. Not just that you hold better views, or act better, but are *intrinsically* better. For example, "bad people" are fundamentally morally defective—unlike you. It's not necessarily a conscious belief, but a feeling.
+Contempt is the feeling that you're fundamentally better than someone[^contempt]. Not just that you hold better views, or act better, but are *intrinsically* better. For example, "bad people" are fundamentally morally defective—unlike you. It's not necessarily a conscious belief, but a feeling and a perception.
 
-There is a profound sense in which you are fundamentally the _same_ as everyone else. In fact, you _are_ everyone (and everything) "else." This isn't realized fully until enlightenment, but everyone can sense it at some level at all times. That's why certain literature[^literature] speaks to us so powerfully. Contempt is a way to hide this from yourself, and is thus self-deceptive in _exactly_ the same way as racism[^racism].
+There is a profound sense in which you are fundamentally the _same_ as everyone else. In fact, you _are_ everyone (and everything) "else." This isn't realized fully until enlightenment, but everyone can sense it at some level at all times. That's why certain literature[^literature] speaks to us so powerfully. Contempt is a way to hide this from yourself, and is thus self-deceptive—in exactly the same way as racism[^racism].
 
 You may not be able to detect this in yourself, but others can sense it—even if only subconsciously. They know the game you're playing, so they can't help but see _you_ as a "bad person" and feel compelled to fight your evil in return. You act dismayed by this recalcitrance—but you were secretly _hoping_ to provoke it, because it justifies your contempt.
 
-Consider how much more satisfying it is to watch a bad person "get owned" than to see them have a change of heart—despite the latter actually being helpful. Part of us is perfectly happy to let the world burn to provide us with the self-righteousness we need to uphold our self-image as "good people." This is why we must see them as _irredeemably_ bad: there must be zero doubt that our behavior is good.
+Consider how much more satisfying it is to watch a bad person "get owned" than to see them have a change of heart—despite the latter actually being helpful. Part of us is more than happy to throw people under the bus in order to uphold our self-image as "good people"—but this requires plausible deniability. This is why we must see them as _irredeemably_ bad: it leaves zero doubt that our malice is good.
 
-It can be _extremely hard_ to admit that we're doing this, for obvious reasons. But it is not until we see exactly _why_ it's so hard to admit that we begin to understand what prevents the "bad people" from consciously recognizing _their_ self-deception—and we can't fix what we don't understand. Until then, we can only butt heads with it, which is worse than useless.
+It can be _extremely hard_ to admit (or even detect) that we're doing this, for obvious reasons. But it is not until we see exactly _why_ it's so hard that we begin to understand what prevents the "bad people" from consciously recognizing _their_ self-deception—and we can't fix what we don't understand. Until then, we can only butt heads with it, which is worse than useless.
 
 To summarize: all evil is enabled by self-deception, which itself is rooted in misperception. Contempt is a secret attempt to induce this misperception in others—target, allies, and bystanders alike. It thereby enables more evil, regardless of who it is directed at—and part of us _needs_ this, to justify our misperception. In short: the way we perceive people becomes a self-fulfilling prophecy[^prophecy].
 
@@ -65,7 +65,7 @@ That is why the first step in fighting evil is confronting our own self-deceptio
 
 Pause and notice how contempt, malice, hatred, and malevolence all have the same "flavor" or "signature." Once contempt is fully unmasked for what it is, you can literally _feel_ the malevolence—as though you are gleefully injecting evil into your target's very soul, while winking at them as if to remind them that you will get away with it. The trouble is, you ultimately won't.
 
-It still sends a shudder down my spine to recall being forcefully shown how I was doing this.
+It still sends a shudder down my spine to recall being forcefully shown that I was doing this—and that part of me _always_ knew.
 
 ### Inner light
 
@@ -97,7 +97,7 @@ How does this "end evil"? By cutting through self-deception; i.e., reminding peo
 
 ### How do I know that my "inner light" knows what's best?
 
-It doesn't. It merely ensures that you're acting with complete honesty and right intention. You still need to learn which behaviors are helpful and harmful in which situations. This is wisdom, which compassion must be paired with.
+It doesn't. It merely ensures that you're acting with complete honesty and clean intention. You still need to learn which behaviors are helpful and harmful in which situations. This is wisdom, which compassion must be paired with to be truly effective.
 
 ### Pseudo-kindness
 
@@ -127,19 +127,17 @@ Reality is actually one seamless interdependent whole. When we misperceive this,
 
 Perhaps, then, we could say that evil exists as a real misperception. What began as an innocent mistake spiraled out of control, and has taken on a seeming life of its own. It can thus be very useful to perceive evil as a distinct entity—as long as we remember that it's not separate from our own minds.
 
-When did this "innocent mistake" begin? After all, evil clearly existed before our birth. What makes this so hard to communicate is that we're not describing not a process that began in time and space—those are only constructs that our mind uses to make sense of reality once it has been (apparently) divided. This renders the "who started it" question moot.
+When did this "innocent mistake" begin? After all, evil clearly existed before our birth. What makes this so hard to communicate is that we're not describing not a process that began in time and space—those are constructs that our mind uses to make sense of reality once it has been (apparently) divided. This renders the "who started it" question moot. You could say we restart it in each moment of perception.
 
-It may not be useful to get too into metaphysics here, but it can be helpful to recognize that all evil stems from the unwillingness or inability to recognize the humanity in other people; to _see_ yourself in them. It's actually broader than just people: destroying nature can be evil. It's a failure to recognize that what happens to the world ultimately happens to us, because in a profound and surprising sense, we _are_ the world. Harming it *always* comes back to bite us. 
-Ultimately, all self-deception boils down to feigned ignorance of this fact.
+It may not be useful to get too into metaphysics here, but it can be helpful to recognize that all evil stems from the unwillingness or inability to recognize the humanity in other people; to _see_ yourself in them[^genocide]. It's actually broader than just people: destroying nature can be evil. It's a failure to recognize that what happens to the world ultimately happens to us, because in a profound and surprising sense, we _are_ the world. Harming it *always* comes back to bite us. 
 
-Again, some literature is good at reminding us of this[^literature].
+Ultimately, all self-deception boils down to feigned ignorance of this fact. Again, some literature is good at reminding us of this[^literature].
 
 ### What does the evil want?
 
-As long as we're anthropomorphizing it, we could say that it always attempts to escalate toward a full-blown Armageddon, in which each side can violently prove just how righteous they are, once and for all.
+As long as we're anthropomorphizing it, we could say that it attempts to escalate toward a full-blown Armageddon, in which each side can violently prove just how righteous they are, once and for all.
 
-This is why the US is headed toward civil war, with nobody aware of their own complicity. It is what leads to bitter divorces, in which each side feels like the exclusive victim / hero.
-
+This is why the US is headed toward civil war, with nobody aware of their own complicity. It is also what [leads to bitter divorces](https://www.gottman.com/blog/this-one-thing-is-the-biggest-predictor-of-divorce/), in which each side feels like the exclusive victim / hero.
 
 ### Are there really evil people?
 
@@ -214,7 +212,7 @@ I made it with DALL-E 3. [Here it is](img/buddha.png).
 - When you fight people using contempt, you can feel your evil allying with theirs. Conversely, when you fight them with compassion, you can feel your inner light allying with theirs. Part of them (and bystanders) can sense what's really happening, and this makes all the difference. It provides them with the safety to confront their misbehavior while not letting them off the hook for it.
 
 
-- You have _no idea_ how slippery the slope to full-blown evil is. Thank your lucky stars that you haven't been given the right circumstances to manifest it. If you believe you are immune, this is the surest sign that evil has already colonized the deepest part of your mind.
+- You have _no idea_ how slippery the slope to full-blown evil is. Thank your lucky stars that the right circumstances haven't manifested to send you down it. If you believe you are immune, this is the surest sign that evil has already colonized the deepest part of your mind.
 
 
 - You know the classic angel and devil ont the shoulder? The angel is your inner light, and is intrinsic to you. The devil is your evil, and he doesn't just whisper bad ideas into your ear: he alters your very perception.
@@ -259,10 +257,12 @@ I made it with DALL-E 3. [Here it is](img/buddha.png).
     >
     > It also can imply a sense of resilience and adaptability; just as an organism can survive damage to one part by relying on others, a "distributed organism" of evil might not be easily eradicated because its diffuse nature allows it to continue functioning even if one aspect is addressed or reformed.
 
-[^racism]: Obviously skin color is a much more ridiculous reason to set ourselves apart than, say, moral attitudes (which we have some control over). But at the very deepest level, even those don't define us. Again, this isn't something I can prove to you, but part of you knows it. But regardless of your beliefs on this matter, it is possible to _see_ that part of you is simply looking for an outlet for cruelty, and "bad people" are the last remaining socially-acceptable avenue for it.
+[^racism]: Obviously skin color is a much more ridiculous reason to set ourselves apart than, say, moral attitudes (which we have some control over). But at the very deepest level, even those don't define us. Again, this isn't something I can prove to you, but part of you knows it. But regardless of your beliefs on this matter, it is possible to see unmistakably that it is rooted in the same desire to elevate yourself at the expense of others.
 
 [^conspiracy]: Our cumulative self-deception effectively _compels_ the existence of evil people running the show, on whom our externalized blame can be entirely pinned. Which isn't to say that we shouldn't hold them fully responsible for their actions—just that if we do it with contempt, we are secretly instructing reality to immediately fill the shoes. All that changes is the details of their evil.
 
 [^contempt]: To be clear, contempt for ideas or behavior can be perfectly healthy.
 
 [^prophecy]: Obviously our own perception has only so much effect, but it is _far_ more powerful than we realize because our perception goes far deeper than we realize.
+
+[^genocide]: Note that genocides generally start with dehumanization. The Nazis referred to Jews as 'vermin' and during the genocide in Rwanda, Tutsis were referred to as 'cockroaches.'
