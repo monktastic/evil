@@ -155,13 +155,20 @@ While it is surely true that "evil wins when good people do nothing," the only t
 
 ### You mentioned psychedelics. How can they help?
 
-This deserves its own piece. For now, I'll just share this quote:
+This deserves its own piece. For now, I'll just share this question and answer from a [forum](https://web.archive.org/web/20150628081721/http://duncantrussell.com/forum/discussion/89/a-blessed-curse-psilocybinempathy/p1):
 
-> *My most recent mushroom trip (also the largest dose I've ever taken) I became fixated on a news story I had heard that week. About an 8 year old girl from a tribe in the Amazon, who was [tied to a tree and burned alive](https://www.survivalinternational.org/news/8033) in order to scare her people off their land so it could be logged. I realized that at the moment he did it, whoever lit that gasoline actually felt / thought more or less okay about what he was doing. And my mind was illuminated with dozens of the parallels between that man's malformed, horrific perceptual / behavioral state, and mine. I saw the same mistakes in value attribution, the same willful ignorance of the consequences of my acts and words. And there was nothing I could do to deny the similarity.*
+> Like many of you (I'm sure), psilocybin has changed the way I see this world, and the people around me. It has torn my heart open on many occasions and revealed to me how my actions effect other people in ways I would've never imagined. In addition (and to the point), **psilocybin has increased my ability to empathize with people to a degree I never thought possible**.
+>
+> I consider this a blessing, but it has also led me to a very troubling conclusion:
+>
+> The lack of compassion, empathy and love we (society) feel for each other is staggering. Especially between people who don't know each other. The more love and empathy I feel for others, the more aware I am of society's inability to feel it for each other.
+>
+> Does this make sense? Does it mean this blessing is really a curse? Because sometimes, it feels that way.
+
+> *Nail on the head brother. My most recent mushroom trip (also the largest dose I've ever taken) I became fixated on a news story I had heard that week. About an 8 year old girl from a tribe in the Amazon, who was [tied to a tree and burned alive](https://www.survivalinternational.org/news/8033) in order to scare her people off their land so it could be logged. I realized that at the moment he did it, whoever lit that gasoline actually felt / thought more or less okay about what he was doing. **And my mind was illuminated with dozens of the parallels between that man's malformed, horrific perceptual / behavioral state, and mine. I saw the same mistakes in value attribution, the same willful ignorance of the consequences of my acts and words. And there was nothing I could do to deny the similarity.***
 >
 > *Reminds me of something (I think) Duncan [Trussell] said on some recent podcast, quoting somebody else: it isn't the victim of violence you have to pray for so much. It's the perpetrator. They are the one who is more trapped in delusion, more estranged from love, etc.*
 
-You may have heard of "ego death" on psychedelics. Only by seeing beneath your apparent differences with others do you begin to see your astonishing (and sometimes horrifying) similarities.
 
 ### Near-death experiences
 
