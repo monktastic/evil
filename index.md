@@ -9,11 +9,11 @@ There really _is_ a sort of "evil conspiracy" responsible for the world's ills. 
 
 Imagine you witness someone misbehaving—anything from cutting in line to a full-blown atrocity.
 
-If your mind were free of evil, you would literally see yourself in them—indeed, in everyone and everything[^literature]—and be incapable of feeling contempt or malice. You would more easily perceive the inner and outer conditions that led to their behavior, which would enable a healthy response; one that would not amplify hostility in the world. This is called compassion—_even if it requires violence_[^dalai-lama-gun]. It _reduces_ evil.
+If your mind were free of evil, you would literally see yourself in them—indeed, in everyone and everything[^literature]—and be incapable of contempt or malice. You would more easily perceive the inner and outer conditions that led to their behavior, which would enable a healthy response; one that would not amplify hostility in the world. This is called compassion—_even if it requires violence_[^dalai-lama-gun]. It _reduces_ evil.
 
-Evil, on the other hand, alters your very perception, so that you literally see "bad person" and wish to cause harm. It might be as innocent as mockery or shaming[^mockery]—but however "well-intentioned," such behavior is subconsciously designed to create *more* enmity and suffering; to increase evil in the world. But this fact will be cleverly hidden from you. You will come away feeling righteous; like you "fought evil."
+Evil, on the other hand, alters your very perception, so that you literally see "bad person" and wish to cause harm. It might be as innocent as mockery or shaming[^mockery]—but however "well-intentioned," such behavior is subconsciously designed to create *more* enmity; to increase evil in the world. But this fact will be cleverly hidden from you. You will come away feeling righteous; like you "fought evil."
 
-This self-deception is incredibly difficult to detect in ourselves. Yet without seeing it, the true reason for other people's misbehavior remains hidden from us, and we cannot help but exacerbate it.
+This self-deception is incredibly difficult to detect in ourselves. Yet without seeing it, the true reason for other people's misbehavior remains forever hidden from us, and we cannot help but exacerbate it.
 
 If you still harbor the capacity for contempt (and I certainly do), then you are surely leaking evil into the world somewhere, somehow, in some way that you are not yet conscious of. The greatest thing you can do for the world is heal the part of you that's enabling this. Meditation, psychedelics, trauma work, shadow work, whatever. Please don't let it fester.
 
@@ -25,7 +25,7 @@ You don't have to take my word for it. Part of you knows this perfectly well. Yo
 
 ### Why do you call it a "conspiracy"?
 
-Your actual enemy is not other people, but the evil in all of our minds—yet your evil allows you to see it only in others, thus tricking you into spreading it while convinced you that you're fighting it.
+Your actual enemy is not other people, but the evil in all of our minds—yet your evil only allows you to see it in others, thus tricking you into behaving in ways that spread it while convinced you that you're fighting it.
 
 In this way, it behaves like an intelligent distributed organism[^distributed-organism], with shadowy tentacles embedded in each of our minds. It is leveraging humanity's intelligence to produce horrifying outcomes that nobody claims to want, yet which are the inevitable result of our collective self-deception[^conspiracy]. Nobody can see it, but everyone can sense it.
 
@@ -37,9 +37,9 @@ As crazy as this sounds, it can be perceived directly. In fact, as best I can te
 
 Have you ever done something that deep down you felt was wrong, but convinced yourself it was okay? Try and recall what that state is like. You knew perfectly well that what you were doing was wrong—according to your own conscience—but that knowledge was carefully hidden from conscious self-reflection. You somehow _knew_ but simultaneously _didn't_. It is a kind of schism in the mind, and it is where evil hides.
 
-This mechanism is ultimately responsible for _all_ misbehavior. Even the most "evil" person could not do what they do without it, and conversely, you yourself are capable of almost anything under the right circumstances. This is very hard to accept about ourselves, so we try to hide it—and the results are disastrous.
+This mechanism is ultimately responsible for _all_ misbehavior. Even the most evil person could not do what they do without it, and conversely, you yourself are capable of almost anything under the right circumstances[^right-circumstances]. This is very hard to accept about ourselves, so we try to hide it—and the results are disastrous.
 
-The more guilty we are of this, the more eagerly we seek it out in others. We then try to force them to own up to theirs, but this backfires miserably: they can sense that we are in no position to do such a thing, and simply return the favor.
+The more guilty we are of this, the more eagerly we seek it out in others. We then try to force them to own up to theirs, but this backfires miserably: they can sense that we are in no position to be scorning them, and so they simply return the favor.
 
 But part of us secretly _wants_ this outcome...
 
@@ -212,9 +212,6 @@ I made it with DALL-E 3. [Here it is](img/buddha.png).
 - When you fight people using contempt, you can feel your evil allying with theirs. Conversely, when you fight them with compassion, you can feel your inner light allying with theirs. Part of them (and bystanders) can sense what's really happening, and this makes all the difference. It provides them with the safety to confront their misbehavior while not letting them off the hook for it.
 
 
-- You have _no idea_ how slippery the slope to full-blown evil is. Thank your lucky stars that the right circumstances haven't manifested to send you down it. If you believe you are immune, this is the surest sign that evil has already colonized the deepest part of your mind.
-
-
 - You know the classic angel and devil ont the shoulder? The angel is your inner light, and is intrinsic to you. The devil is your evil, and he doesn't just whisper bad ideas into your ear: he alters your very perception.
 
 
@@ -237,9 +234,9 @@ I made it with DALL-E 3. [Here it is](img/buddha.png).
 
 ## Footnotes
 
-[^dalai-lama-gun]: https://www.snopes.com/fact-check/dalai-gun/
+[^dalai-lama-gun]: The Dalai Lama was once asked what you should do if a gunman is trying to shoot you and you have a gun. [He said "shoot back."](https://www.snopes.com/fact-check/dalai-gun/)
 
-[^mockery]: There is a subtlety here: just like with violence, mocking or shaming *can* sometimes be the best response. But they work (and feel) entirely differently when not motivated by evil. I think of these as advanced techniques, because it's so easy to fool oneself.
+[^mockery]: There is a subtlety here: just like with violence, mocking or shaming *can* sometimes be the right response. But they work (and feel) entirely differently when not motivated by contempt. I think of these as advanced techniques, because it's so easy to fool oneself.
 
 [^literature]:
     - [The Egg](https://www.youtube.com/watch?v=h6fcK_fRYaI): A short story by Andy Weir and animated by Kurzgesagt.
@@ -266,3 +263,5 @@ I made it with DALL-E 3. [Here it is](img/buddha.png).
 [^prophecy]: Obviously our own perception has only so much effect, but it is _far_ more powerful than we realize because our perception goes far deeper than we realize.
 
 [^genocide]: Note that genocides generally start with dehumanization. The Nazis referred to Jews as 'vermin' and during the genocide in Rwanda, Tutsis were referred to as 'cockroaches.'
+
+[^right-circumstances]: You have _no idea_ how slippery the slope to full-blown evil is. Thank your lucky stars that the right circumstances haven't manifested to send you down it. If you believe you are immune, this is the surest sign that evil has already colonized the deepest part of your mind.
