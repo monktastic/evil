@@ -117,6 +117,8 @@ This is the inverse of pseudo-kindness: it is when we are _nice_ to someone in a
 
 ### Impersonation
 
+> _And no wonder, for even Satan masquerades as an angel of light. So it is not strange that his ministers also masquerade as ministers of righteousness._ —2 Corinthians 11:14-16
+
 The trickiest thing about evil is that it masquerades as our light. When we are in close contact with our light, they are easy to tell apart. But each time we confuse them, it becomes progressively harder. Eventually there is no memory of the light at all, and "good" refers to some arbitrary (and secretly self-serving) principles. This is a difficult place to work your way back from.
 
 ### Does evil really exist?
@@ -184,6 +186,14 @@ These can have a similar effect as psychedelics.
 
 You _will_ have to confront your hidden misbehavior sooner or later; it doesn't just evaporate from reality. Might as well make it sooner.
 
+### This "conspiracy" sounds like some versions of the devil...
+
+I'm not religious in the traditional sense, but I did notice striking similarities between some interpretations of the Bible and this piece (after writing it):
+
+The further we get from our light, the harder it gets to tell it apart from our darkness (which masquerades as our light). The darkness operates behind the scenes like a shadowy entity, tempting us and pulling our strings. Eventually we go so far astray that we can no longer see the light.
+
+These sound a lot like descriptions from some theologians of Satan (who isn't evil, but just tempts us toward it) and Hell (which isn't a place, but the experience of being far from the "light of God"). I suspect they were onto something profound.
+
 ### Are _you_ a saint / enlightened?
 
 Hell no.
@@ -201,6 +211,7 @@ I made it with DALL-E 3. [Here it is](img/buddha.png).
 ## Other notes
 
 - Coming into contact with your "inner light" provides the profound psychological safety required to uncover and hold the full depth of your complicity in the world. You can then offer this same gift to others—though if it still feels like there is a "you" and "others," there is work left to be done.
+
 
 - I think we should popularize the idea of "herd immunity to evil." When in a contemptuous crowd or atmosphere, it is very easy to get swept up yourself. But if you're aware of this dangerous pattern and resistant to it, you provide a kind of "buffer" for others. The more people who do this, the harder it is for evil to spread.
 
@@ -252,7 +263,7 @@ I made it with DALL-E 3. [Here it is](img/buddha.png).
     >
     > But the universe is sooooo much bigger than any of that. The sky is me, and the stars too, and the chirping crickets and the songs they make; sparkling rivers, snow and rain, distant solar systems and whatever beings may live there: it’s all me. And it’s you, too.
     >
-    > -- Zen priest (and punk rocker) Brad Warner
+    > — Zen priest (and punk rocker) Brad Warner
 
 [^distributed-organism]: I asked ChatGPT how it would interpret this phrase. I loved its response:
     > Describing evil as a "distributed organism" suggests a conceptual metaphor where evil is likened to a living entity with multiple parts functioning cohesively but spread out over a wide area or among various systems. In this metaphor, just as an organism has many cells or systems that work together to sustain life, evil could be seen as having various components or individuals that contribute to its overall presence or influence.
