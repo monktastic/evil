@@ -1,5 +1,5 @@
 
-We understand that we're not supposed to lose our humanity in the face of evil, but _why_ should we not?
+GPT-4: Why should we not lose our humanity in the face of evil?
 
 1. To affirm our commitment to our moral and ethical values.
 2. To stop the cycle of violence and hatred.
