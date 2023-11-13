@@ -19,11 +19,11 @@ Our evil manipulates us into provoking others' while convinced that we're fighti
 
 You know the archetypal "evil conspiracy" that is said to be running the world behind the scenes, without anyone ever detecting it? Well _this is it_ — the _primordial_ evil conspiracy, to which all the rest ultimately filter up[^cabal]. Only this one is not run by a select group of evil people, but by the evil in _all of our minds together_. **We** are the hardware on which the Devil himself[^devil] runs.
 
-What does it feel like when this sinister entity is trying to take control of your mind? _It feels like contempt._ It's not always as extreme as hating "evil people." It often begins with a subtle disdain, which grows via a self-reinforcing process into hatred, malice, and beyond. The further along you get, the more your misbehavior feels licensed or even necessary. 
+What does it feel like when this sinister entity is trying to take control of your mind? _It feels like contempt._ It's not always as extreme as hating "evil people." It often begins with a subtle disdain, which grows via a self-reinforcing process into hatred, malice, and beyond. The further along you get, the more you will license yourself to behave in ways that you would rightfully condemn in others.
 
-This is evil's core trick. It is continually manipulating your perception, and you must stay alert for it. Your true enemy is not other people; it is the evil in all of our minds. Contempt is how it keeps itself continually nourished.
+This is a form of self-deception. A deep part of you knows this, but it's somehow not accessible to conscious self-reflection. Until you see how this operates in yourself, it is impossible to understand exactly what enables the evil in others. And you cannot fix what you don't understand. Until then, you cannot help but spread evil even as you're convinced you're fighting it.
 
-This may be hard to swallow, but it's absolutely crucial to see — because only once you see how it has tricked _you_ can you understand how it commandeers _other_ minds. And you cannot fix what you don't understand. Until then, you cannot help but spread evil even as you're convinced you're fighting it.
+This is its core trick. It keeps your attention fixated outward on the evil "out there," so that you never turn inward to discover its secret, which would enable you to actually heal it, first in yourself, and then others. Your true enemy is not other people; it is the evil in all of our minds. Contempt is how it keeps itself continually nourished and hidden.
 
 If you still harbor the capacity for contempt, then you are certainly leaking evil into the world somewhere, somehow, in some way that you are not yet conscious of. The greatest gift you can give the world is heal the part of you that's enabling this. Meditation, psychedelics, trauma work, shadow work, whatever. Please don't let it fester.
 
